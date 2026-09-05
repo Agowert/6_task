@@ -92,14 +92,14 @@
 a,
 a:visited
 {
-    color: #f68c2e;
+    color: #707580;
     text-decoration: none;
 }
 
 .link:hover,
 a:hover
 {
-    color: #d97a1a;
+    color: #707580;
     text-decoration: underline;
 }
 
